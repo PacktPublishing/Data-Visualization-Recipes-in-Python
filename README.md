@@ -20,12 +20,12 @@ This course covers advanced and powerful time series capabilities so you can dis
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-The prerequisite for this video course is fundamental knowledge of Python and Pandas. It is assumed that the viewer is familiar with all the common built-in data containers in Python, such as lists, sets, dictionaries, and tuples. 
+Fundamental knowledge of Python and Pandas.<br/> It is assumed that the viewer is familiar with all the common built-in data containers in Python, such as lists, sets, dictionaries, and tuples. <br/>
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Anaconda 4.3
-Jupyter Notebook
-Python 3.x
+Anaconda 4.3<br/>
+Jupyter Notebook<br/>
+Python 3.x<br/>
 Pandas 0.20.1
 
 ## Related Products
