@@ -9,13 +9,11 @@ This course covers advanced and powerful time series capabilities so you can dis
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Read and write data in text format&nbsp; 
-<LI>Master concepts involved in interacting with databases 
-<LI>Master string manipulations on Data Sets 
-<LI>Practice data aggregation on data sets 
-<LI>Be proficient in group-wise operations on data sets 
-<LI>Learn to apply multiple and different functions to dataframe columns 
-<LI>Implement the concept of exponentially weighted windows </LI></UL></DIV>
+<LI>Create beautiful and insightful visualizations through pandas' direct hooks to Matplotlib and Seaborn
+<LI>Utilize pandas' unparalleled time series functionality
+<LI>Split data into independent groups before applying aggregations and transformations to each group
+<LI>Prepare real-world messy datasets for machine learning
+<LI>Combine and merge data from different sources through pandas' SQL-like operations </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
